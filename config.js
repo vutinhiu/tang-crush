@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'Thật ra em cũng thích anh rồi đúng không… thôi thì mình chính thức với nhau nha 💕',
     mess: 'Anh biết màaa 🥰 Từ giờ mình có danh phận rồi nha 😘',
     messDesc: 'Hẹn em 18h30 tối ngày 22/3/2026 anh qua đón người yêu anh đi chơi nhé 💖',
-    btnAccept: 'Dạaaa người yêu 😳',
-    messLink: 'https://www.facebook.com/messages/e2ee/t/7838240329548182' //link mess. VD: https://m.me/nam.nodemy
+    btnAccept: 'Okii bấy bì 😳',
+    messLink: 'https://www.facebook.com/Hiuhiu911' //link mess. VD: https://m.me/nam.nodemy
 }
